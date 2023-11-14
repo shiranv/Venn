@@ -1,0 +1,15 @@
+.header {
+    background-color: rgba(255, 169, 78, 0.872);
+    height: 72px;
+    padding: 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: sans-serif;
+
+  }
+  
+  .logo {
+    font-size: 20px;
+    font-weight: 600;
+  }
